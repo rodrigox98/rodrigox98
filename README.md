@@ -1,5 +1,8 @@
 
-# Estudante de Ciência da Computação, 3º Semestre 👋
+### Estudante de Ciência da Computação, 4º Semestre 👋.
+### Formado Fullstack Developer .NET pela Generation Brasil  onde aprimorei minhas habilidades técnicas, além de competências comportamentais. 
+
+    Atualmente estudando linguagens como C# e JavaScript. Fique a vontade para verificar meus projetos. 
 <div align="center">
   <a href="https://github.com/rodrigox*/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigox98&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
