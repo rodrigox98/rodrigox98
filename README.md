@@ -1,6 +1,6 @@
 
  ## Rodrigo da Silva Lima
- Estudante de Ciência da Computação, 4º Semestre 👋.
+ Estudante de Ciência da Computação, 5º Semestre 👋.
  Formado Fullstack Developer .NET pela Generation Brasil  onde aprimorei minhas habilidades técnicas, além de competências comportamentais. 
 
     Atualmente estudando linguagens como C# e JavaScript. Fique a vontade para verificar meus projetos. 
